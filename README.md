@@ -91,3 +91,4 @@ Future Improvements
 ---
 
 Enjoy using the calculator! Feel free to contribute to the project by submitting pull requests or reporting issues.
+![ts-1](https://github.com/user-attachments/assets/898debad-6cda-40f7-bb61-4bb270564e49)
