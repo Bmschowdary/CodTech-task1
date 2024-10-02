@@ -18,7 +18,7 @@ How to Run
 
 1. Clone or download the repository to your local machine:
    
-gh repo clone Bmschowdary/CodTech-task1
+https://github.com/Bmschowdary/CodTech-task1.git
    
 
 2. Navigate to the project directory:
