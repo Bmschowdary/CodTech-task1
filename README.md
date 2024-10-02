@@ -18,7 +18,7 @@ How to Run
 
 1. Clone or download the repository to your local machine:
    
-   "git clone https://github.com/your-username/tkinter-calculator.git"
+   "gh repo clone Bmschowdary/CodTech-task1"
    
 
 2. Navigate to the project directory:
